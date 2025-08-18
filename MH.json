@@ -245,8 +245,8 @@
             "key": "JAVXX(js)",
             "name": "JAVXX(js)",
             "type": 3,
-            "api": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/lib4/drpy2.min.js",
-            "ext": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/leilingzero/mofa/master/notes/js/JAVXX（优）.js"
+            "api": "https://raw.githubusercontent.com/MingHoChen/MH/main/js/lib/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/MingHoChen/MH/main/js/JAVXX（优）.js"
         },
         {
             "key": "py_色播聚合",
@@ -741,3 +741,4 @@
         }
     ]
 }
+
